@@ -1,0 +1,9 @@
+Package: com.billyellis.glassobject
+Name: GlassObject
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Billy Ellis
+Author: Billy Ellis
+Section: Utilities
